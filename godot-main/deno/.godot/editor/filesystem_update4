@@ -1,4 +1,5 @@
-res://readme.md
-res://player.tscn
-res://player.gd
 res://mob.tscn
+res://mob.gd
+res://main.tscn
+res://main.gd
+res://player.tscn

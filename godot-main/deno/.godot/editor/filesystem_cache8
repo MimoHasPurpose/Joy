@@ -1,7 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1742256462
+::res://::1742342309
 icon.svg::CompressedTexture2D::3294692557567851279::1742256323::1742256413::1::::<><>::
-::res://art/::1742256462
+mob.tscn::PackedScene::2039465087210457630::1742265411::0::1::::<><>::
+player.gd::GDScript::-1::1742262376::0::1::::<>Area2D<>::
+player.tscn::PackedScene::4094535484020285052::1742265081::0::1::::<><>::uid://ol1r3yftsj81::::res://art/playerGrey_up1.png<>res://player.gd<>uid://cprvb7ey2xfqu::::res://art/playerGrey_up2.png<>uid://cj5ekyg5ooqhq::::res://art/playerGrey_walk1.png<>uid://ow8avh51yw3x::::res://art/playerGrey_walk2.png
+readme.md::TextFile::-1::1742260288::0::1::::<><>::
+::res://art/::1742256463
 enemyFlyingAlt_1.png::CompressedTexture2D::1900787052836553879::1742256462::1742256463::1::::<><>::
 enemyFlyingAlt_2.png::CompressedTexture2D::5096204778084752425::1742256462::1742256463::1::::<><>::
 enemySwimming_1.png::CompressedTexture2D::3204412214832335825::1742256462::1742256463::1::::<><>::
