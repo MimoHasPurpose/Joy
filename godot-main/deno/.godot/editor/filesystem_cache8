@@ -1,9 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1742342309
+::res://::1742567775
 icon.svg::CompressedTexture2D::3294692557567851279::1742256323::1742256413::1::::<><>::
-mob.tscn::PackedScene::2039465087210457630::1742265411::0::1::::<><>::
+main.gd::GDScript::-1::1742346273::0::1::::<>Node<>::
+main.tscn::PackedScene::4742805635587485251::1742346429::0::1::::<><>::res://main.gd<>uid://bylonv14uqd13::::res://player.tscn<>uid://4b6xr8a6ypow::::res://mob.tscn
+mob.gd::GDScript::-1::1742346366::0::1::::<>RigidBody2D<>::
+mob.tscn::PackedScene::2039465087210457630::1742343397::0::1::::<><>::res://mob.gd<>uid://2c0xj6jk56mt::::res://art/enemyFlyingAlt_1.png<>uid://ceuv0o3rly6mf::::res://art/enemyFlyingAlt_2.png<>uid://blwig3mn73sw4::::res://art/enemySwimming_1.png<>uid://b1h0icnqd6h23::::res://art/enemySwimming_2.png<>uid://cglrvaypcpyxq::::res://art/enemyWalking_1.png<>uid://bimg2xom8fwmg::::res://art/enemyWalking_2.png
 player.gd::GDScript::-1::1742262376::0::1::::<>Area2D<>::
-player.tscn::PackedScene::4094535484020285052::1742265081::0::1::::<><>::uid://ol1r3yftsj81::::res://art/playerGrey_up1.png<>res://player.gd<>uid://cprvb7ey2xfqu::::res://art/playerGrey_up2.png<>uid://cj5ekyg5ooqhq::::res://art/playerGrey_walk1.png<>uid://ow8avh51yw3x::::res://art/playerGrey_walk2.png
+player.tscn::PackedScene::4094535484020285052::1742346542::0::1::::<><>::uid://ol1r3yftsj81::::res://art/playerGrey_up1.png<>res://player.gd<>uid://cprvb7ey2xfqu::::res://art/playerGrey_up2.png<>uid://cj5ekyg5ooqhq::::res://art/playerGrey_walk1.png<>uid://ow8avh51yw3x::::res://art/playerGrey_walk2.png
 readme.md::TextFile::-1::1742260288::0::1::::<><>::
 ::res://art/::1742256463
 enemyFlyingAlt_1.png::CompressedTexture2D::1900787052836553879::1742256462::1742256463::1::::<><>::
