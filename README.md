@@ -8,6 +8,6 @@ Refer:
 - [Manual](https://docs.godotengine.org/en/stable/tutorials/best_practices/index.html)
 
 Projects:
-1. deno
+1. dodge creeps
 2. godot-icon-rotate
 
