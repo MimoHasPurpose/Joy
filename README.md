@@ -11,6 +11,23 @@ Repo contains all my learning related to game development
 1. dodge creeps
 2. godot-icon-rotate
 
+Game dev Concepts:
 
-#### Basic game dev concepts:
+- Sprites: sprites are objects in a game that move and interact. the empty space in a sprite is useless, so we use bounding box.
+- Sprite sheet: animation frame kept next to each other
+- tile sets: elements of game levels.
+
+##### Important concepts in Game dev:
+-   2d
+-   3d
+-   animation
+-   audio
+-   math- vectors maths, interpolation.
+    - interpolation: blend between 2 values
+-   performance
+-   networking
+-   physics
+-   scripting
+-   shaders- special program that run on GPU.
+
 
