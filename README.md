@@ -58,6 +58,7 @@ Game dev Concepts:
 
 - **Tools:**
     - piskel for sprites
+    - [pyxel](https://pyxeledit.com/)
     - garageband for music
     - itch.io
     - [reditt thread for game toold](https://www.reddit.com/r/gamedev/comments/1rs1s1/what_are_some_awesome_game_dev_tools_weve_never/)
