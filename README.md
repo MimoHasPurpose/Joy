@@ -18,6 +18,11 @@ Game dev Concepts:
 - **tile sets**: elements of game levels.
 - **game Jam**:  event where participants make video games (itch.io)
     - gmtk game jam
+- **Level**: level is where game happens, different level offer variation. [level design link](https://book.leveldesignbook.com/introduction)
+- **Platformer**: jump and run game
+- **catlikecoding**: https://catlikecoding.com/
+- **playtest**: testing a game for bugs and design flaws
+- 
 ##### Important concepts in Game dev:
 -   2d
 -   3d
@@ -37,6 +42,22 @@ Game dev Concepts:
 -   spring
 
 
-Laptop for game dev:
+#### Laptop for game dev:
+- MSI stealth 16
+- Macbook pro 16(M4 Pro)
 
 
+#### Apps and websites for game dev:
+- **Apps:**
+    - unity3d
+    - blender
+    - godot
+- **Language:**
+    - gdscript
+    - c++(raylib,sfml)
+
+- **Tools:**
+    - piskel for sprites
+    - garageband for music
+    - itch.io
+    - [reditt thread for game toold](https://www.reddit.com/r/gamedev/comments/1rs1s1/what_are_some_awesome_game_dev_tools_weve_never/)
