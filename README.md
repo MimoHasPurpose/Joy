@@ -13,10 +13,11 @@ Repo contains all my learning related to game development
 
 Game dev Concepts:
 
-- Sprites: sprites are objects in a game that move and interact. the empty space in a sprite is useless, so we use bounding box.
-- Sprite sheet: animation frame kept next to each other
-- tile sets: elements of game levels.
-
+- **Sprites**: sprites are objects in a game that move and interact. the empty space in a sprite is useless, so we use bounding box.
+- **Sprite sheet**: animation frame kept next to each other
+- **tile sets**: elements of game levels.
+- **game Jam**:  event where participants make video games (itch.io)
+    - gmtk game jam
 ##### Important concepts in Game dev:
 -   2d
 -   3d
@@ -29,5 +30,13 @@ Game dev Concepts:
 -   physics
 -   scripting
 -   shaders- special program that run on GPU.
+-   japanese emoticons: ( ﾟｏ⌒)
+-   soft body stimulation
+-   cute games
+-   polygon and mesh
+-   spring
+
+
+Laptop for game dev:
 
 
