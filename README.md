@@ -62,3 +62,21 @@ Game dev Concepts:
     - garageband for music
     - itch.io
     - [reditt thread for game toold](https://www.reddit.com/r/gamedev/comments/1rs1s1/what_are_some_awesome_game_dev_tools_weve_never/)
+    - [opengameart](https://opengameart.org/)
+    - [2d game dev from zero to hero](https://therealpenaz91.itch.io/2dgd-f0th)
+    - [game engine book](https://www.gameenginebook.com/)
+    - [game programming patterns](https://gameprogrammingpatterns.com/)
+    #### Game Jam:
+    - idea of game
+        - characters
+        - story
+        - action
+        - end
+    - logic of game
+        - figma file with oraganize ideas.
+    - game design
+
+
+
+
+    #### What is a game team:
