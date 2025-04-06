@@ -80,3 +80,7 @@ Game dev Concepts:
 
 
     #### What is a game team:
+    - project manangers
+    - developers
+    - artists
+    
